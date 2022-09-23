@@ -8,12 +8,12 @@ tlf
 813 3280108
 813 3280108
 afiliaciones
-si shei
-pat a pat
+si shei *
+pat a pat *
 walmart
 Victoria secret
 nike
 adidas
-kols
+kols*
 guess
 amazon prime
